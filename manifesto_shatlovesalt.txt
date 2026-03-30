@@ -1,0 +1,4 @@
+--- My Open Source Manifesto ---
+Created on: 30 March 2026
+In a world of closed systems, I choose ubuntu because it represents choice.
+I believe in the power of sharing, which is why I would build AI bot for the community.
