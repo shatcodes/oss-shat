@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 1: System Identity Report
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: Shatakshi Akhilesh Thakur | Roll: 24BSA10134
 # Course: Open Source Software | VITyarthi
 # Description: Displays a welcome screen with system info and
 #              confirms the OS and Firefox license details.
