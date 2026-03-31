@@ -10,8 +10,8 @@
 |---|---|
 | **Name** | Shatakshi Akhilesh Thakur|
 | **Roll Number** | 24BSA10134 |
-| **Slot** | D11 |
-| **Date of Submission** | 31 03 2026 |
+| **Slot** | B22 |
+| **Date of Submission** | 31-03-2026 |
 
 ---
 
